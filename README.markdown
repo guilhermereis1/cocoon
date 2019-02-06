@@ -573,22 +573,8 @@ Note that `link_to_remove_association` does not require `association` name as an
 * Send me a pull request. Bonus points for topic branches.
 
 
-## Contributors
+Guilherme Reis
 
-The list of contributors just keeps on growing. [Check it out!](https://github.com/nathanvda/cocoon/graphs/contributors)
-I would really really like to thank all of them. They make cocoon more awesome every day. Thanks.
+* https://www.worldcode.com.br
 
-## Todo
-
-* add more sample relations: `has_many :through`, `belongs_to`, ...
-* improve the tests (test the javascript too)(if anybody wants to lend a hand ...?)
-
-## Copyright
-
-Copyright (c) 2010 Nathan Van der Auwera. See LICENSE for details.
-
-## Not Related To Apache Cocoon
-
-Please note that this project is not related to the Apache Cocoon web framework project.
-
-[Apache Cocoon](http://cocoon.apache.org/), Cocoon, and Apache are either registered trademarks or trademarks of the [Apache Software Foundation](http://www.apache.org/) in the United States and/or other countries.
+![alt text](https://res.cloudinary.com/dgxdamqhe/image/upload/v1545168182/logo_wc_png_irc4l2.png)
